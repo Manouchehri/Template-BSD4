@@ -1,0 +1,1 @@
+Content in this repository was created by [David Manouchehri](mailto:manouchehri@riseup.net) and is under the BSD 4-clause license. See `LICENSE-BSD4.txt` for details.
